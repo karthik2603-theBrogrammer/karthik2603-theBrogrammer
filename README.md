@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm KARTHIK NAMBOORI</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karthik Namboori
+========================================================================================================================================
+Student and an avid Tech-Enthusiast.
+
 - 🌱 I’m currently learning **Redis,TypeScript and PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://karthiknamboori.netlify.app/](https://karthiknamboori.netlify.app/)
