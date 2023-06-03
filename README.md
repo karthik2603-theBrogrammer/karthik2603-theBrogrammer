@@ -2,7 +2,7 @@ Hey There![](https://user-images.githubusercontent.com/18350557/176309783-078594
 ========================================================================================================================================
 Student and an avid Tech-Enthusiast.
 
-- 🌱 I’m currently learning **Redis,TypeScript and PostgreSQL**
+- 🌱 I’m currently learning **TypeScript, PostgreSQL and Deep Learning Technologies**
 
 - 👨‍💻 All of my projects are available at [https://karthiknamboori.netlify.app/](https://karthiknamboori.netlify.app/)
 
