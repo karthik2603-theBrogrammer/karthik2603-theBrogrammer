@@ -1,6 +1,4 @@
-<img width="1800" alt="Screenshot 2023-07-30 at 12 38 51 PM" src="https://github.com/karthik2603-theBrogrammer/karthik2603-theBrogrammer/assets/103726023/b3886eb3-948b-4d55-80fb-3b6a4a0fae33">
-
-
+<img width="1200" alt="Screenshot 2023-07-31 at 12 42 16 AM" src="https://github.com/karthik2603-theBrogrammer/karthik2603-theBrogrammer/assets/103726023/164cb4e1-a342-4898-bc26-4e8d48546681">
 
 
 
