@@ -31,7 +31,7 @@
     <h3 style="text-align: center;">Languages I know;)</h3>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,solidity&perline=6" />
+        <img src="https://skillicons.dev/icons?i=c,python,js&perline=6" />
       </a>
     </p>
   </div>
