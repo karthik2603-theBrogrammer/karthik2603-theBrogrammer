@@ -80,7 +80,7 @@
     <h3 style="text-align: center;">Tools</h3>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vercel,postman,vscode,git,docker,github,linux,svg,figma,latex,gitlab&perline=6" />
+        <img src="https://skillicons.dev/icons?i=vercel,postman,vscode,git,docker,github,figma,latex,gitlab&perline=6" />
       </a>
     </p>
     
