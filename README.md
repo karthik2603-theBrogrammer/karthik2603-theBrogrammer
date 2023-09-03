@@ -2,9 +2,6 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=33&center=true&vCenter=true&width=600&height=100&lines=Problem+Solving+Enthusiast....;++;Self-taught+Programmer,;Knowledge+Hungry,;Keen+Learner/Researcher,;Tech+Geek..<3"></a>
-</p>
 
 <center>
 
