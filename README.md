@@ -1,7 +1,5 @@
-<img width="1200" alt="Screenshot 2023-07-31 at 12 42 16 AM" src="https://github.com/karthik2603-theBrogrammer/karthik2603-theBrogrammer/assets/103726023/164cb4e1-a342-4898-bc26-4e8d48546681">
 
-
-
+# Hey There, 
 
 <center>
 
