@@ -3,115 +3,97 @@
 
 [![An image of @karthik2603thebrogrammer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karthik2603thebrogrammer)](https://holopin.io/@karthik2603thebrogrammer)
 
-<center>
 
-# 📊GitHub Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthik2603-theBrogrammer&theme=solarized_dark)<br/>
+### Programming Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=karthik2603-theBrogrammer&theme=solarized-dark&hide_border=true)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=karthik2603-theBrogrammer&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karthik2603-theBrogrammer&theme=solarized_dark&utcOffset=8)
-</center>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
+### Frameworks
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0088CC?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+
+
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit)
+
+### Design and Version Control
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) 
+![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=black) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-namboori-145238216/) 
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/karthik_namboori/)
+
+
+# Github Stats ⚡️
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthik2603-theBrogrammer&theme=solarized_dark" />
 </div>
-<!--tech stack icons-->
-<center>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items:center">
-  <div style="flex: 1; max-width: 300px; margin: 10px;">
-    <h3 style="text-align: center;">Languages I know;)</h3>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,python,js,ts&perline=6" />
-      </a>
-    </p>
-  </div>
-  <div style="flex: 1; max-width: 300px; margin: 10px;">
-    <h3 style="text-align: center;display: flex; flex-wrap: wrap; justify-content: center; align-items:center">Frontend Development</h3>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,svelte,css,sass,figma,html,materialui,redux,tailwind,chakraui,shadcn&perline=6" />
-      </a>
-    </p>
-  </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik2603-theBrogrammer&theme=solarized-dark&hide_border=true" />
 </div>
-</center>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="flex: 1; max-width: 300px; margin: 10px;">
-    <h3 style="text-align: center;">Backend Development</h3>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,flask,django,express,firebase,mongodb,mysql,sqlite,postgresql,redis&perline=6" />
-      </a>
-    </p>
-  </div>
-  <div style="flex: 1; max-width: 300px; margin: 10px;">
-    <h3 style="text-align: center;">Machine Learning</h3>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=pytorch,fastapi,wasm&perline=6" />
-      </a>
-    </p>
-    
-  </div>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="flex: 1; max-width: 300px; margin: 10px;">
-    <h3 style="text-align: center;">Cloud</h3>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=gcp,azure&perline=6" />
-      </a>
-    </p>
-  </div>
-  
-  <div style="flex: 1; max-width: 300px; margin: 10px;">
-    <h3 style="text-align: center;">Tools</h3>
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vercel,postman,vscode,git,github,figma,latex,gitlab&perline=6" />
-      </a>
-    </p>
-    
-  </div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=karthik2603-theBrogrammer&theme=solarized_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karthik2603-theBrogrammer&theme=solarized_dark&utcOffset=8" />
 </div>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
+
+
+# Random Dev Quote 🗣️
+
+<div align = "left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
 </div>
 
-<!--icons and links-->
+# Trophies 🏆
 
-<p align="center">
-<a href="https://www.linkedin.com/in/karthik-namboori-145238216/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="" target="blank"></a> 
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://karthiknamboori.netlify.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discord.gg" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<center>
+<div align = "center">
+  <img src="https://github-profile-trophy.vercel.app/?username=karthik2603-theBrogrammer&theme=radical&no-frame=false&no-bg=false&margin-w=4"  />
+</div>
 
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=karthik2603-theBrogrammer)](https://github.com/ryo-ma/github-profile-trophy)
+<div align = "center">
+  <img src="https://visitcount.itsvg.in/api?id=karthik2603-theBrogrammer&label=Profile%20Views&color=9&icon=5&pretty=true" height="35" width="210" />
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=karthik2603-theBrogrammer&icon=8&color=9)](https://visitcount.itsvg.in)
 
-</center>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
