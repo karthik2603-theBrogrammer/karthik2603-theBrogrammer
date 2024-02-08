@@ -100,8 +100,9 @@
 
 
 
-<div align = "center">
-  <img src="https://visitcount.itsvg.in/api?id=karthik2603-theBrogrammer&label=Profile%20Views&color=9&icon=5&pretty=true" height="35" width="210" />
+
+<div align="center">
+<img width="100px" src="https://komarev.com/ghpvc/?username=karthik2603-theBrogrammer&&style=for-the-badge" align="center" />
 </div>
 
 
