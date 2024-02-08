@@ -1,6 +1,8 @@
 
 # Hey There, 
 
+[![An image of @karthik2603thebrogrammer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karthik2603thebrogrammer)](https://holopin.io/@karthik2603thebrogrammer)
+
 <center>
 
 # 📊GitHub Stats :
