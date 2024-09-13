@@ -12,8 +12,11 @@
 
 [![An image of @karthik2603thebrogrammer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karthik2603thebrogrammer)](https://holopin.io/@karthik2603thebrogrammer)
 
-[13th September 2024] Give the article on how I won at the JPMorgan Chase Hackathon a read [here](https://medium.com/@namkarthik2003/how-i-won-at-the-code-for-good-hackathon-by-jpmorgan-chase-co-7c3349ed95fa)! 
-[12th August 2024] I am a Teaching Assistant for the course, Data Analytics @PES University.
+| Date                | News                                                                         |
+|---------------------|----------------------------------------------------------------------------  |
+| 13th September 2024 | Give the article on how I won at the JPMorgan Chase Hackathon a read [here]! |
+| [12th August 2024]  | I am a Teaching Assistant for the course, Data Analytics @PES University.    |
+
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
