@@ -12,10 +12,14 @@
 
 [![An image of @karthik2603thebrogrammer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karthik2603thebrogrammer)](https://holopin.io/@karthik2603thebrogrammer)
 
+## Notable Achievements and Updates!
+
 | Date                | News                                                                         |
 |---------------------|----------------------------------------------------------------------------  |
-| 13th September 2024 | Give the article on how I won at the JPMorgan Chase Hackathon a read [here]! |
-| [12th August 2024]  | I am a Teaching Assistant for the course, Data Analytics @PES University.    |
+| 13th September 2024 | Give the article on how I won at the JPMorgan Chase Hackathon a read [here](https://medium.com/@namkarthik2003/how-i-won-at-the-code-for-good-hackathon-by-jpmorgan-chase-co-7c3349ed95fa)! |
+| 12th August 2024  | I am a Teaching Assistant for the course, Data Analytics @PES University.    |
+| 3rd June 2024 | I begin my summer internship at AVEVA, Hyderabad as a part of the XR Team |
+| 9th March 2024 | Victory @Hashcode, 24h Hackathon at PES University, Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7174706811743215616/)!|
 
 
 ### Programming Languages
