@@ -7,11 +7,6 @@
 
 
 
-
-
-
-[![An image of @karthik2603thebrogrammer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karthik2603thebrogrammer)](https://holopin.io/@karthik2603thebrogrammer)
-
 ## Notable Achievements and Updates!
 
 | Date                | News                                                                         |
@@ -20,6 +15,11 @@
 | 12th August 2024  | I am a Teaching Assistant for the course, Data Analytics @PES University.    |
 | 3rd June 2024 | I begin my summer internship at AVEVA, Hyderabad as a part of the XR Team |
 | 9th March 2024 | Victory @Hashcode, 24h Hackathon at PES University, Read more [here](https://www.linkedin.com/feed/update/urn:li:activity:7174706811743215616/)!|
+
+
+
+[![An image of @karthik2603thebrogrammer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karthik2603thebrogrammer)](https://holopin.io/@karthik2603thebrogrammer)
+
 
 
 ### Programming Languages
