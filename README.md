@@ -7,7 +7,7 @@
 
 
 
-## Notable Achievements and Updates!
+## News, Notable Achievements and Other Updates!
 
 | Date                | News                                                                         |
 |---------------------|----------------------------------------------------------------------------  |
