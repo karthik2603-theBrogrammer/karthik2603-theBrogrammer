@@ -11,6 +11,7 @@
 
 | Date                | News                                                                         |
 |---------------------|----------------------------------------------------------------------------  |
+| 15th October 2024 | I've written a detailed article on Caching, you can check it out [here](https://medium.com/@namkarthik2003/cache-in-on-speed-boost-your-backend-performance-with-caching-3fb9b18f5217)!|
 | 13th September 2024 | Give the article on how I won at the JPMorgan Chase Hackathon a read [here](https://medium.com/@namkarthik2003/how-i-won-at-the-code-for-good-hackathon-by-jpmorgan-chase-co-7c3349ed95fa)! |
 | 12th August 2024  | I am a Teaching Assistant for the course, Data Analytics @PES University.    |
 | 3rd June 2024 | I begin my summer internship at AVEVA, Hyderabad as a part of the XR Team |
