@@ -1,9 +1,8 @@
 
 <h1 align="center">Hello there ! I'm Karthik Namboori 🤝</h1>
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- <-- <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=48F7E1&background=114845BB&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;Exploring+Distributed+Systems;GenAI+and+LLM+Enthusiast;Distributed+ML" alt="Typing SVG" /></a>
-</p>
+</p> --> 
 
 
 
