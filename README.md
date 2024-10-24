@@ -6,8 +6,7 @@
 
 
 
-> [!TIP]  
->  ### News, Notable Achievements and Other Updates!
+### News, Notable Achievements and Other Updates!
 
 
 | Date                | News                                                                         |
